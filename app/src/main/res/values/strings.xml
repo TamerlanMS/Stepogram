@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stepogram</string>
+    <string name="add">Добавить</string>
+    <string name="hello_world">Привет, мир!</string>
+</resources>
